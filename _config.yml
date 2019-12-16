@@ -10,7 +10,7 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 # github_repo: "https://github.com/jinhuadao/jinhuadao.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
+sidebar: false                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
 sidebar-avatar: /img/jinhuadao.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
@@ -96,19 +96,10 @@ service-worker: true
 
 
 
-# Friends
+# 推荐链接
 friends: [
     {
-        title: "卓越进化岛",
-        href: "https://mp.weixin.qq.com/s/BIsoHB7wT_e38kzngAPKQQ"
-    },{
-        title: "读书舍",
-        href: "https://mp.weixin.qq.com/s/e4bdeS2hIkXBEaom-IcCWQ"
-    },{
-        title: "大学生成长",
+        title: "大学生成长舍",
         href: "https://mp.weixin.qq.com/s/Ep5RQZHYi5g6ILQk6Z5Llw"
-    },{
-        title: "中科院读书舍",
-        href: "https://mp.weixin.qq.com/s/4UZwPVb2uyME9Pxgwu4Elw"
     }
 ]
